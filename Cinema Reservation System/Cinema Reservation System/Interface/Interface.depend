@@ -1,0 +1,290 @@
+# depslib dependency file v1.0
+1673205995 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"reservation.h"
+	"cinemaseats.h"
+	"login.h"
+
+1673205995 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1673178636 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673083769 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1673083769 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\user.h
+
+1672737076 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\movietheater.c
+	"movietheater.h"
+
+1673177812 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
+1673205423 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\reservation.c
+	"reservation.h"
+
+1672737308 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\movietheater.h
+	<stdio.h>
+	<stdlib.h>
+
+1671188816 source:c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1671188806 c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+
+1672739965 source:c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"admin.h"
+	"reservation.h"
+
+1672739947 c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+
+1672740317 source:c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\reservation.c
+	"reservation.h"
+
+1671141020 source:c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1670745286 c:\program files\codeblocks\problems\cinema reservation system\cinema reservation system\interface\user.h
+
+1673197728 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\cinemaseats.h
+	<stdio.h>
+	<stdlib.h>
+
+1673206127 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\cinemaseats.c
+	"cinemaseats.h"
+
+1673203797 c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\login.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673205496 source:c:\users\alex gavan\desktop\cinema reservation system\cinema reservation system\interface\login.c
+	"login.h"
+
+1673178713 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1673178636 c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1672864560 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\cinemaseats.c
+	"cinemaseats.h"
+
+1672863446 c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\cinemaseats.h
+	<stdio.h>
+	<stdlib.h>
+
+1673180646 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"reservation.h"
+	"cinemaseats.h"
+	"login.h"
+
+1673177812 c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
+1673180560 c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\login.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673177812 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\reservation.c
+	"reservation.h"
+
+1673083769 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1673083769 c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\user.h
+
+1673180771 source:c:\users\antonia\desktop\cinema reservation system\cinema reservation system\interface\login.c
+	"login.h"
+
+1673205995 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1673178636 c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673206547 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.c
+	"cinemaseats.h"
+
+1673197728 c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.h
+	<stdio.h>
+	<stdlib.h>
+
+1673205496 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\login.c
+	"login.h"
+
+1673203797 c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\login.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673206548 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"reservation.h"
+	"cinemaseats.h"
+	"login.h"
+
+1673177812 c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
+1673205423 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\reservation.c
+	"reservation.h"
+
+1673083769 source:c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1673083769 c:\users\antonia\desktop\cp_studyguide\cinema reservation system(final boss)\cinema reservation system\interface\user.h
+
+1673083769 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1673083769 c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\user.h
+
+1673262555 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1673262267 c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673263301 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.c
+	"cinemaseats.h"
+
+1673218546 c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.h
+	<stdio.h>
+	<stdlib.h>
+
+1673263477 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"reservation.h"
+	"cinemaseats.h"
+	"login.h"
+
+1673219245 c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
+1673218467 c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\login.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673263703 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\reservation.c
+	"reservation.h"
+
+1673263301 source:c:\users\alex gavan\desktop\cinema reservation system(final boss)\cinema reservation system\interface\login.c
+	"login.h"
+
+1673263478 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"reservation.h"
+	"cinemaseats.h"
+	"login.h"
+
+1673262268 d:\cinema reservation system(final boss)\cinema reservation system\interface\admin.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673219246 d:\cinema reservation system(final boss)\cinema reservation system\interface\reservation.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
+1673218548 d:\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.h
+	<stdio.h>
+	<stdlib.h>
+
+1673218468 d:\cinema reservation system(final boss)\cinema reservation system\interface\login.h
+	<time.h>
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<stdlib.h>
+
+1673083770 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\user.c
+	"user.h"
+	<time.h>
+
+1673083770 d:\cinema reservation system(final boss)\cinema reservation system\interface\user.h
+
+1673267130 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\admin.c
+	"admin.h"
+
+1673265700 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\cinemaseats.c
+	"cinemaseats.h"
+
+1673267130 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\login.c
+	"login.h"
+
+1673265700 source:d:\cinema reservation system(final boss)\cinema reservation system\interface\reservation.c
+	"reservation.h"
+

@@ -1,0 +1,36 @@
+The first name of person is:Alex
+The last name of person is:Gavan
+The number of phone is:0764977311
+The day of reservation is: 1
+The month of reservation is: 12
+The year of reservation is: 2023
+0.0
+The movie choose is:John_Wick
+The time is 20:
+30
+The seat you have selected is:3
+The seat you have selected is:2
+The seat you have selected is:19
+The seat you have selected is:13
+The seat you have selected is:14
+The seat you have selected is:12
+The first name of person is:Alex
+The last name of person is:Olaru
+The number of phone is:0765748394
+The first name of person is:Alex
+The last name of person is:Pasca
+The number of phone is:0764839031
+The first name of person is:alex
+The last name of person is:pasca
+The number of phone is:0765438923
+The day of reservation is: 1
+The month of reservation is: 12
+The year of reservation is: 2023
+0.0
+The first name of person is:alex
+The last name of person is:cosmin
+The number of phone is:0765748432
+The day of reservation is: 1
+The month of reservation is: 12
+The year of reservation is: 2023
+186.5
